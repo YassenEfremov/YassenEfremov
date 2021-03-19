@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YassenEfremov
+- 👋 Hi, I’m Yassen Efremov
 - 👀 I’m interested in math and computers
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on my classmates
